@@ -15,7 +15,7 @@
 		<div class="site-info">
 				<?php
 				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Copywrite %1$s %2$s.', 'cwd' ), '2022', '<a href="https://daniellundydev.ca">Daniel Lundy</a>' );
+				printf( esc_html__( 'Copywrite %1$s %2$s.', 'cwd' ), '2022', '<a href="' . home_url() . '">CWD 4500 01</a>' );
 				?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
