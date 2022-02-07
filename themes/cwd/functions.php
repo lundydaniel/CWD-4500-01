@@ -87,6 +87,8 @@ function cwd_setup() {
 			'flex-height' => true,
 		)
 	);
+	
+	add_theme_support('wp-block-styles');
 }
 add_action( 'after_setup_theme', 'cwd_setup' );
 

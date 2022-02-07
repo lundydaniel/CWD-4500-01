@@ -5,3 +5,19 @@
 .wp-block-quote.is-style-fancy-quote {
     color: red;
 }
+
+.entry-content>* {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alignwide {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alignfull {
+    width: 100%;
+}

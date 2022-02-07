@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/WordPress/gutenberg/trunk/schemas/json/theme.json",
+    "version": 2,
+    "settings": {
+        "color": {
+            "custom": false,
+            "defaultPalette": false,
+            "palette": [
+                {
+                    "color": "#ff5252",
+                    "name": "Grapefruit",
+                    "slug": "grapefruit"
+                },
+                {
+                    "color": "#000000",
+                    "name": "Black",
+                    "slug": "black"
+                },
+                {
+                    "color": "#ffffff",
+                    "name": "White",
+                    "slug": "white"
+                }
+            ]
+        },
+        "layout": {
+            "contentSize": "1000px",
+            "wideSize": "1200px"
+        }
+    }
+}
